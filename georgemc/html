@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My website</title>
+    <style>
+      body {
+        background-image: url("https://wallpapers.com/images/featured/laptop-murjp1nk4lp1idlt.jpg");
+      }
+     .username {
+        font-weight: bold;
+        font-size: xx-large;
+        color: whitesmoke;
+        text-align: center;
+        font-weight: 1000;
+        text-decoration: underline;
+        text-shadow: 5cap 5cap 5cap white;
+      }
+     .aa {
+        color: wheat;
+        font-weight: normal;
+        font-size: larger; 
+        font-weight: 350;
+        margin: normal;
+        margin-bottom: normal;
+        text-align: center;
+     }
+  
+    </style>
+  </head>
+  <body>
+    <p class="username">COMPUTER SCIENCE 3RD YEAR UNITS</i></p>
+    <h1 class="aa">1.COMP 311-Programming Project</h1>
+    <h2 class="aa">2.COMP 312-Software Engineering 2</h2>
+    <h3 class="aa">3.COMP 313-Computer Architecture</h3>
+    <h4 class="aa">4.COMP 314-Database System Design</h4>
+    <h5 class="aa">5.COMP 315-Analysis and Design of Algorithms</h5>
+    <h6 class="aa">6.MATH 313-Principles of Operation Reasearch</h6>
+    <h7 class="aa">7.COMP 316-Web Design</h7>
+  </body>
+</html>
